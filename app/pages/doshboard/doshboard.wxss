@@ -1,0 +1,4 @@
+/* app/pages.wxss */
+.title{
+  color:red;
+}
